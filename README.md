@@ -1,7 +1,8 @@
 # AMC DATABASE
 
 ## What is AMC DATABASE?
-This Repository is managed by Bakti Satria 
+This Repository is managed by Bakti Satria / Off 3. IT System Delivery & Evaluation
+
 
 ## How to Use
 
@@ -12,5 +13,3 @@ This Repository is managed by Bakti Satria
 
 
 ## Contributing
-
-W
